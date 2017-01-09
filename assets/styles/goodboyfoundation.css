@@ -1,7 +1,7 @@
-/*div{
+div{
   border:1px dashed black;
 
-}*/
+}
 .toprow{
   height:200px;
 }
@@ -16,8 +16,12 @@
   border-radius:100%;
   margin:-50 0 0 700;
 }
+
 .title{
-  font-size:40px;
+  font-size:60px;
+  margin:20 250 0 0;
+  text-align:center;
+
 }
 
 .pug{
