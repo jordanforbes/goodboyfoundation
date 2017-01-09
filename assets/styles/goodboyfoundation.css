@@ -1,3 +1,11 @@
+/*
+font-family: 'Reem Kufi', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Cuprum', sans-serif;
+font-family: 'Alegreya', serif;
+font-family: 'Amatic SC', cursive;
+*/
+
 html body{
   background-color:#F4FFA6;
 }
@@ -15,7 +23,12 @@ html body{
   font-size:60px;
   margin:20 250 0 0;
   text-align:center;
-
+}
+.title #the{
+  font-family: 'Pacifico';
+  font-size:20;
+  display:block;
+  margin-top:0;
 }
 
 .headpic{
