@@ -1,6 +1,9 @@
-div{
+html body{
+  background-color:#F4FFA6;
+}
+/*div{
   border:1px dashed black;
-
+*/
 }
 .toprow{
   height:200px;
@@ -8,15 +11,6 @@ div{
 .secondrow{
   height:400px;
 }
-
-.headpic{
-  overflow:hidden;
-  height:450px;
-  width:450px;
-  border-radius:100%;
-  margin:-50 0 0 700;
-}
-
 .title{
   font-size:60px;
   margin:20 250 0 0;
@@ -24,6 +18,13 @@ div{
 
 }
 
+.headpic{
+  overflow:hidden;
+  height:450px;
+  width:450px;
+  border-radius:100%;
+  margin:-100 0 0 700;
+}
 .pug{
   margin:0 0 0 -700;
   height:700px;
