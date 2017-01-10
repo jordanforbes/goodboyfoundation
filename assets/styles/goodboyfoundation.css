@@ -10,7 +10,9 @@ html body{
   background-color:#F4FFA6;
 }
 
-
+.tiredrow{
+  background-color:#16C216;
+}
 
 .toprow{
   height:300px;
@@ -52,12 +54,24 @@ html body{
   height:500px;
   background-color:#F4FFA6;
 }
+#undertext{
+  font-family:'Amatic SC';
+}
 #centertext{
   height:350px;
   margin:50 30 30 30;
   width: 300px;
   font-family:'Amatic SC';
   font-size:38;
+  animation-name:fade;
+  animation-duration:4s;
+}
+#centertext2{
+  height:350px;
+  margin:50 30 30 30;
+  width: 300px;
+  font-family:'Amatic SC';
+  font-size:100;
   animation-name:fade;
   animation-duration:4s;
 }
